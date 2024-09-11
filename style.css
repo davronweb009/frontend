@@ -1,0 +1,64 @@
+.oq{
+    background-color: rgb(182, 182, 236);
+    text-align: center;
+    border-radius: 20px ;
+    border: 3px solid red;
+    
+
+}
+.qizil{
+    color: red;
+}
+.kok{
+    color: green;
+}
+.yuz{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.men{
+    background-color: green;
+}
+.kim{
+   background-color: black;
+   color: white;
+   width: 1100px;
+   text-align: center;
+}
+.hayvon{
+    background-color: red;
+    color: white;
+    width: 100px;
+    text-align: center;
+}
+.muz{
+    background-color: blue;
+    color: white;
+}
+.oqi{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.sam{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.sasha{
+    text-align: center;
+    ;
+}
+table,th,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+.rasulla{
+    color: green;
+}
+.qizo{
+    background-color: cornflowerblue;
+}
+
+
